@@ -1,0 +1,16 @@
+<parameter name="content">PORT=3000
+
+MONGODB_URL=mongodb+srv://maliksudais30_db_user:gBfZeePUdXa1Q3Y8@cluster0.pdkptir.mongodb.net/Blog-Site
+
+CORS_ORIGIN=*
+
+JWT_SECRET=thisisscretkey
+JWT_SECRET_EXPIRE=5d
+
+REFRESH_TOKEN_SECRET=thisisrefreshtokensecretkey
+REFRESH_TOKEN_EXPIRE=7d
+
+CLOUDINARY_CLOUD_NAME=dmes8q1e5
+CLOUDINARY_API_KEY=348656769435168
+CLOUDINARY_API_SECRET=AdIuAb7nNMeQyNqUINLVwgT2lsI
+</parameter>
